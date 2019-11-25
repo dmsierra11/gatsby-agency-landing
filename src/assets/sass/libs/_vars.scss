@@ -31,7 +31,7 @@
 
 // Palette.
 	$palette: (
-		bg:					#2e3842,
+		bg:					#61DBFB,
 		fg:					#fff,
 		fg-bold:			#fff,
 		fg-light:			rgba(255,255,255,0.5),
@@ -39,9 +39,11 @@
 		border-bg:			rgba(144,144,144,0.25),
 		border2:			#fff,
 		border2-bg:			rgba(144,144,144,0.5),
+		ruby: 				#CC342D,
+		android: 			#6ab344,
 
 		accent1: (
-			bg:				#21b2a6,
+			bg:				#4bace9,
 			fg-bold:		#ffffff,
 			fg:				mix(#21b2a6, #ffffff, 25%),
 			fg-light:		mix(#21b2a6, #ffffff, 40%),
@@ -52,7 +54,7 @@
 		),
 
 		accent2: (
-			bg:				#00ffcc,
+			bg:				#0091ff,
 			fg-bold:		#ffffff,
 			fg:				mix(#00ffcc, #ffffff, 25%),
 			fg-light:		mix(#00ffcc, #ffffff, 40%),
@@ -85,7 +87,7 @@
 		),
 
 		accent5: (
-			bg:				#505393,
+			bg:				#838383,
 			fg-bold:		#ffffff,
 			fg:				mix(#505393, #ffffff, 25%),
 			fg-light:		mix(#505393, #ffffff, 40%),

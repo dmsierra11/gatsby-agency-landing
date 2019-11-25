@@ -598,7 +598,7 @@
 		}
 
 		&.style1 {
-			color: _palette(accent2, bg);
+			color: _palette(ruby);
 		}
 
 		&.style2 {
@@ -606,7 +606,7 @@
 		}
 
 		&.style3 {
-			color: _palette(accent4, bg);
+			color: _palette(android);
 		}
 	}
 
@@ -652,6 +652,12 @@
 			img {
 				width: 100%;
 			}
+		}
+	}
+
+	.logo {
+		img {
+			width: 30%
 		}
 	}
 
@@ -954,7 +960,7 @@
 		}
 
 		&.primary {
-			background-color: _palette(accent6, bg);
+			background-color: _palette(ruby);
 			box-shadow: none !important;
 			color: _palette(accent6, fg-bold) !important;
 
