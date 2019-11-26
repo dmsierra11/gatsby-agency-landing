@@ -1325,7 +1325,7 @@
 	}
 
 	.wrapper {
-		@include padding(6em, 0);
+		@include padding(6em, 10em);
 
 		> .inner {
 			width: 60em;

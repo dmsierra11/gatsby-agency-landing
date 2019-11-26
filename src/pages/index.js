@@ -164,6 +164,39 @@ const IndexPage = () => (
         </ul>
       </div>
     </section>
+
+    <section id="three" className="wrapper style3 special">
+      <h4>Contact</h4>
+      <form method="post" action="#">
+        <div className="row gtr-uniform">
+          <div className="col-6 col-12-xsmall">
+            <input type="text" name="demo-name" id="demo-name" defaultValue="" placeholder="Name" />
+          </div>
+          <div className="col-6 col-12-xsmall">
+            <input type="email" name="demo-email" id="demo-email" defaultValue="" placeholder="Email" />
+          </div>
+          <div className="col-12">
+            <textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+          </div>
+          <div className="col-12">
+            <ul className="actions">
+              <li>
+                <div className="col-6 col-12-small">
+                  <input type="checkbox" id="demo-human" name="demo-human" />
+                  <label htmlFor="demo-human" class="container-check">I have read and accepted the <a class="link" href="legal-warning.html" target="_blank">legal
+                      conditions and the clauses</a> of the GDPR for the transfer of personal data
+                    <input class="input" id="check-form" name="check" type="checkbox" />
+                    <span class="checkmark"></span>
+                  </label>
+                  {/* <span class="error-check check-form">The field cannot be empty</span> */}
+                </div>
+              </li>
+              <li><input type="submit" value="Send Message" className="primary" /></li>
+            </ul>
+          </div>
+        </div>
+      </form>
+    </section>
   </Layout>
 );
 
