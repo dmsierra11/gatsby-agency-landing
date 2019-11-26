@@ -142,7 +142,7 @@ const IndexPage = () => (
       </div>
     </section> */}
 
-    <section id="cta" className="wrapper style4">
+    {/* <section id="cta" className="wrapper style4">
       <div className="inner">
         <header>
           <h2>LET'S GET IN TOUCH</h2>
@@ -163,10 +163,15 @@ const IndexPage = () => (
           </li>
         </ul>
       </div>
-    </section>
+    </section> */}
 
-    <section id="three" className="wrapper style3 special">
-      <h4>Contact</h4>
+    <section id="three" className="wrapper style4 special">
+    <header>
+          <h2>LET'S GET IN TOUCH</h2>
+          <p>
+            Let's talk, no strings attached, tell us your idea and we'll do our best to provide with the best service and support
+          </p>
+        </header>
       <form method="post" action="#">
         <div className="row gtr-uniform">
           <div className="col-6 col-12-xsmall">
