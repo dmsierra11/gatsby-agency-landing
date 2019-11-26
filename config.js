@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Spectral', // <title>
-  manifestName: 'Spectral',
-  manifestShortName: 'Landing', // max 12 characters
+  siteTitle: 'StrokeSoft', // <title>
+  manifestName: 'StrokeSoft',
+  manifestShortName: 'StrokeSoft', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',

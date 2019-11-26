@@ -97,7 +97,7 @@ const IndexPage = () => (
       </section>
     </section>
 
-    <section id="three" className="wrapper style3 special">
+    {/* <section id="three" className="wrapper style3 special">
       <div className="inner">
         <header className="major">
           <h2>OUR SERVICES</h2>
@@ -111,28 +111,28 @@ const IndexPage = () => (
         </header>
         <ul className="features">
           <li className="icon fa-paper-plane">
-            <h3>Arcu accumsan</h3>
+            <h3>Mobile Apps</h3>
             <p>
               Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
               tincidunt nullam amet leo Aenean ligula consequat consequat.
             </p>
           </li>
           <li className="icon solid fa-laptop">
-            <h3>Ac Augue Eget</h3>
+            <h3>Web Apps</h3>
             <p>
               Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
               tincidunt nullam amet leo Aenean ligula consequat consequat.
             </p>
           </li>
           <li className="icon solid fa-code">
-            <h3>Mus Scelerisque</h3>
+            <h3>Project Management</h3>
             <p>
               Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
               tincidunt nullam amet leo Aenean ligula consequat consequat.
             </p>
           </li>
           <li className="icon solid fa-headphones-alt">
-            <h3>Mauris Imperdiet</h3>
+            <h3>CONSULTING</h3>
             <p>
               Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
               tincidunt nullam amet leo Aenean ligula consequat consequat.
@@ -140,7 +140,7 @@ const IndexPage = () => (
           </li>
         </ul>
       </div>
-    </section>
+    </section> */}
 
     <section id="cta" className="wrapper style4">
       <div className="inner">

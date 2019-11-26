@@ -3,16 +3,16 @@ import React from 'react';
 import Layout from '../components/Layout';
 
 const IndexPage = () => (
-  <Layout fullMenu>
+  <Layout>
     <article id="main">
       <header>
-        <h2>Generic Page</h2>
-        <p>Aliquam ut ex ut interdum donec amet imperdiet eleifend</p>
+        <h2>Meet our team</h2>
+        <p>Meet our amazing team. An incredible mix of experience, creativity and technical savvys</p>
       </header>
       <section className="wrapper style5">
         <div className="inner">
-          <h3>Lorem ipsum dolor</h3>
-          <p>
+          <h2>Coming soon</h2>
+          {/* <p>
             Morbi mattis mi consectetur tortor elementum, varius pellentesque
             velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac
             scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis
@@ -60,7 +60,7 @@ const IndexPage = () => (
             vel, posuere finibus justo. Vivamus facilisis maximus nibh quis
             pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum.
             Proin mauris dui, at vestibulum sit amet, auctor bibendum neque.
-          </p>
+          </p> */}
         </div>
       </section>
     </article>
