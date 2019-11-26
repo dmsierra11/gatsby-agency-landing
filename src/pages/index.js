@@ -172,7 +172,8 @@ const IndexPage = () => (
             Let's talk, no strings attached, tell us your idea and we'll do our best to provide with the best service and support
           </p>
         </header>
-      <form method="post" action="#">
+      <form method="post" netlify-honeypot="bot-field" data-netlify="true">
+        <input type="hidden" name="bot-field" />
         <div className="row gtr-uniform">
           <div className="col-6 col-12-xsmall">
             <input type="text" name="demo-name" id="demo-name" defaultValue="" placeholder="Name" />
