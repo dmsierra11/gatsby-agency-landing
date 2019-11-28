@@ -97,7 +97,7 @@ const IndexPage = () => (
       </section>
     </section>
 
-    {/* <section id="three" className="wrapper style3 special">
+    <section id="three" className="wrapper style3 special">
       <div className="inner">
         <header className="major">
           <h2>OUR SERVICES</h2>
@@ -111,36 +111,35 @@ const IndexPage = () => (
         </header>
         <ul className="features">
           <li className="icon fa-paper-plane">
-            <h3>Mobile Apps</h3>
+            <h3>Mobile App development</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+              We deliver engaging & user-oriented mobile applications with business value.
+              (iOS, Android and React Native)
             </p>
           </li>
           <li className="icon solid fa-laptop">
-            <h3>Web Apps</h3>
+            <h3>Web App development</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+              We engineer web solutions. Front–end & back–end development. 
+              Ruby and Rails, ReactJS and Java.
             </p>
           </li>
           <li className="icon solid fa-code">
-            <h3>Project Management</h3>
+            <h3>Wireframing & design</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+              Every solution needs a beautiful design! We create intuitive interfaces (UI design)
+              and design great user experience on their journey (UX design).
             </p>
           </li>
           <li className="icon solid fa-headphones-alt">
-            <h3>CONSULTING</h3>
+            <h3>IT CONSULTING</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+              We help you steer the way to your digital transformation helping you choosing the best technology, according to the business insights.
             </p>
           </li>
         </ul>
       </div>
-    </section> */}
+    </section>
 
     {/* <section id="cta" className="wrapper style4">
       <div className="inner">
