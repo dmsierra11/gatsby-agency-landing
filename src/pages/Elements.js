@@ -252,7 +252,7 @@ const IndexPage = () => <Layout>
 					</ul>
 				</section> */}
 
-				<section>
+				{/* <section>
 					<h4>Form</h4>
 					<form method="post" action="#">
 						<div className="row gtr-uniform">
@@ -302,7 +302,7 @@ const IndexPage = () => <Layout>
 							</div>
 						</div>
 					</form>
-				</section>
+				</section> */}
 
 				{/* <section>
 					<h4>Image</h4>
